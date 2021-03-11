@@ -25,8 +25,8 @@
 
 // Logging and assertions are useful for debugging, but likely add too much time/space overhead to be used when
 // driving many SplitflapModules at once.
-#define VERBOSE_LOGGING false
-#define ASSERTIONS_ENABLED false
+#define VERBOSE_LOGGING true
+#define ASSERTIONS_ENABLED true
 
 #define FAKE_HOME_SENSOR false
 
